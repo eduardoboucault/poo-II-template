@@ -1,3 +1,5 @@
+//* TIPAGENS SÃO REGRAS DE COMO NOSSAS INFORMAÇÕES DEVEM SER;
+
 export type TUserDB = {
     id: string,
     name: string,
